@@ -31,7 +31,7 @@ public class TestCalculadora {
         assertEquals(16.0, calc.cuadrado(-4.0), 0);
     }
     
-    //Pruebas unitarias para el cubo
+    //Pruebas unitarias para el cubo ok
     @Test
     public void testCuboPositivo() {
         Calculadora calc = new Calculadora();
